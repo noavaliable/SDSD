@@ -1,3 +1,0 @@
-dugrin
-betauser
-eu
